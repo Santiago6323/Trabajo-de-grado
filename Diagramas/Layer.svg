@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="Layer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.1492003"
+     inkscape:cx="266.27211"
+     inkscape:cy="706.1432"
+     inkscape:window-width="1440"
+     inkscape:window-height="863"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       id="ar"
+       viewBox="0 0 10 10"
+       refX="8"
+       refY="5"
+       markerWidth="6"
+       markerHeight="6"
+       orient="auto-start-reverse">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="#4a5568"
+         id="path1" />
+    </marker>
+    <linearGradient
+       id="g_att"
+       x1="33.320148"
+       y1="15.385255"
+       x2="33.320148"
+       y2="29.60557"
+       gradientTransform="matrix(0.20085189,0,0,0.34853713,29.680954,156.5326)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#A89AD5"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-color="#867BAA"
+         id="stop2" />
+    </linearGradient>
+    <marker
+       id="marker2"
+       viewBox="0 0 10 10"
+       refX="8"
+       refY="5"
+       markerWidth="6"
+       markerHeight="6"
+       orient="auto-start-reverse">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="#4a5568"
+         id="path2" />
+    </marker>
+    <marker
+       id="marker3"
+       viewBox="0 0 10 10"
+       refX="8"
+       refY="5"
+       markerWidth="6"
+       markerHeight="6"
+       orient="auto-start-reverse">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="#4a5568"
+         id="path3" />
+    </marker>
+    <marker
+       id="marker4"
+       viewBox="0 0 10 10"
+       refX="8"
+       refY="5"
+       markerWidth="6"
+       markerHeight="6"
+       orient="auto-start-reverse">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="#4a5568"
+         id="path4" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#g_norm"
+       id="linearGradient4"
+       x1="139.13805"
+       y1="8.6174669"
+       x2="139.13805"
+       y2="16.582438"
+       gradientTransform="matrix(0.11249956,0,0,0.62226319,29.680954,156.5326)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="g_norm"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1">
+      <stop
+         offset="0"
+         stop-color="#F46F6F"
+         id="stop3" />
+      <stop
+         offset="1"
+         stop-color="#C25858"
+         id="stop4" />
+    </linearGradient>
+    <marker
+       id="marker5"
+       viewBox="0 0 10 10"
+       refX="8"
+       refY="5"
+       markerWidth="6"
+       markerHeight="6"
+       orient="auto-start-reverse">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="#4a5568"
+         id="path5" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#g_lin"
+       id="linearGradient3"
+       x1="123.68031"
+       y1="12.469299"
+       x2="123.68031"
+       y2="23.994448"
+       gradientTransform="matrix(0.16278457,0,0,0.43004284,29.680954,156.5326)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="g_lin"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1">
+      <stop
+         offset="0"
+         stop-color="#FCD673"
+         id="stop5" />
+      <stop
+         offset="1"
+         stop-color="#C9AB5C"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="g_act"
+       x1="198.87531"
+       y1="8.6174669"
+       x2="198.87531"
+       y2="16.582438"
+       gradientTransform="matrix(0.11249956,0,0,0.62226319,29.680954,156.5326)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#8AD0C6"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#6EA69E"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#g_lin"
+       id="linearGradient2"
+       x1="145.18246"
+       y1="12.469299"
+       x2="145.18246"
+       y2="23.994448"
+       gradientTransform="matrix(0.16278457,0,0,0.43004284,29.680954,156.5326)"
+       gradientUnits="userSpaceOnUse" />
+    <marker
+       id="marker10"
+       viewBox="0 0 10 10"
+       refX="8"
+       refY="5"
+       markerWidth="6"
+       markerHeight="6"
+       orient="auto-start-reverse">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="#4a5568"
+         id="path10" />
+    </marker>
+    <marker
+       id="marker11"
+       viewBox="0 0 10 10"
+       refX="8"
+       refY="5"
+       markerWidth="6"
+       markerHeight="6"
+       orient="auto-start-reverse">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="#4a5568"
+         id="path11" />
+    </marker>
+    <marker
+       id="marker12"
+       viewBox="0 0 10 10"
+       refX="8"
+       refY="5"
+       markerWidth="6"
+       markerHeight="6"
+       orient="auto-start-reverse">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="#4a5568"
+         id="path12" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#g_norm"
+       id="linearGradient1"
+       x1="281.01407"
+       y1="8.6174669"
+       x2="281.01407"
+       y2="16.582438"
+       gradientTransform="matrix(0.11249956,0,0,0.62226319,29.680954,156.5326)"
+       gradientUnits="userSpaceOnUse" />
+    <marker
+       id="marker13"
+       viewBox="0 0 10 10"
+       refX="8"
+       refY="5"
+       markerWidth="6"
+       markerHeight="6"
+       orient="auto-start-reverse">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="#4a5568"
+         id="path13" />
+    </marker>
+    <marker
+       id="ad"
+       viewBox="0 0 10 10"
+       refX="8"
+       refY="5"
+       markerWidth="6.5"
+       markerHeight="6.5"
+       orient="auto-start-reverse">
+      <path
+         d="M0,0 L10,5 L0,10 z"
+         fill="#5a6472"
+         id="path1-0" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       x="42.380947"
+       y="187.2243"
+       text-anchor="end"
+       font-size="2.77813px"
+       fill="#1a202c"
+       id="text10"
+       style="stroke-width:0.264583"
+       inkscape:export-filename="Layer.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">768</text>
+    <line
+       x1="43.439285"
+       y1="186.16595"
+       x2="53.758049"
+       y2="186.16595"
+       stroke="#4a5568"
+       stroke-width="0.3175"
+       marker-end="url(#ar)"
+       id="line10" />
+    <path
+       d="m 55.080957,176.90554 4.233327,-2.64584 h 10.583334 l -4.233327,2.64584 z"
+       fill="#baaaeb"
+       stroke="#2b2b2b"
+       stroke-width="0.8"
+       id="path14"
+       style="stroke-width:0.1;stroke-dasharray:none" />
+    <path
+       d="m 65.664291,176.90554 4.233327,-2.64584 v 18.52084 l -4.233327,2.64583 z"
+       fill="#6f668d"
+       stroke="#2b2b2b"
+       stroke-width="0.8"
+       id="path15"
+       style="stroke-width:0.1;stroke-dasharray:none" />
+    <rect
+       x="55.080956"
+       y="176.90553"
+       width="10.583333"
+       height="18.520834"
+       fill="url(#g_att)"
+       stroke="#2b2b2b"
+       stroke-width="0.211667"
+       id="rect11"
+       style="fill:url(#g_att)" />
+    <text
+       x="60.372616"
+       y="200.18886"
+       text-anchor="middle"
+       font-size="2.64583px"
+       fill="#1a202c"
+       id="text11"
+       style="stroke-width:0.264583">atención multi-cabeza</text>
+    <text
+       x="60.372616"
+       y="203.09932"
+       text-anchor="middle"
+       font-size="2.38125px"
+       fill="#6b7482"
+       id="text12"
+       style="stroke-width:0.264583">12 cabezas · d = 64</text>
+    <line
+       x1="71.220558"
+       y1="186.16595"
+       x2="76.247597"
+       y2="186.16595"
+       stroke="#4a5568"
+       stroke-width="0.3175"
+       marker-end="url(#ar)"
+       id="line12" />
+    <circle
+       cx="47.672615"
+       cy="186.16595"
+       r="0.58208334"
+       fill="#4a5568"
+       id="circle12"
+       style="stroke-width:0.264583" />
+    <path
+       d="m 47.672622,186.16595 c 0,-16.13959 31.22083,-16.13959 31.22083,-2.64583"
+       fill="none"
+       stroke="#4a5568"
+       stroke-width="0.291042"
+       marker-end="url(#ar)"
+       id="path16" />
+    <circle
+       cx="78.893433"
+       cy="186.16595"
+       r="2.1166666"
+       fill="#ffffff"
+       stroke="#2b2b2b"
+       stroke-width="1"
+       id="circle13" />
+    <text
+       x="78.893433"
+       y="187.2243"
+       text-anchor="middle"
+       font-size="3.175px"
+       fill="#2b2b2b"
+       id="text13"
+       style="stroke-width:0.264583">+</text>
+    <line
+       x1="82.06842"
+       y1="186.16595"
+       x2="88.947617"
+       y2="186.16595"
+       stroke="#4a5568"
+       stroke-width="0.3175"
+       marker-end="url(#ar)"
+       id="line13" />
+    <path
+       d="m 88.947619,176.90554 4.233337,-2.64584 h 3.174997 l -4.233327,2.64584 z"
+       fill="#ff7a7a"
+       stroke="#2b2b2b"
+       stroke-width="0.8"
+       id="path17"
+       style="stroke-width:0.1;stroke-dasharray:none" />
+    <path
+       d="m 92.122626,176.90554 4.233327,-2.64584 v 18.52084 l -4.233327,2.64583 z"
+       fill="#a14949"
+       stroke="#2b2b2b"
+       stroke-width="0.8"
+       id="path18"
+       style="stroke-width:0.1;stroke-dasharray:none" />
+    <rect
+       x="88.947617"
+       y="176.90553"
+       width="3.175"
+       height="18.520834"
+       fill="url(#g_norm)"
+       stroke="#2b2b2b"
+       stroke-width="0.211667"
+       id="rect14"
+       style="fill:url(#linearGradient4);stroke-width:0.1;stroke-dasharray:none" />
+    <line
+       x1="97.678833"
+       y1="186.16595"
+       x2="105.88091"
+       y2="186.16595"
+       stroke="#4a5568"
+       stroke-width="0.3175"
+       marker-end="url(#ar)"
+       id="line14" />
+    <path
+       d="m 105.88096,176.90554 8.46667,-5.29168 h 6.87918 l -8.46668,5.29168 z"
+       fill="#ffec7f"
+       stroke="#2b2b2b"
+       stroke-width="0.8"
+       id="path19"
+       style="stroke-width:0.1;stroke-dasharray:none" />
+    <path
+       d="m 112.76013,176.90554 8.46668,-5.29168 v 18.52084 l -8.46668,5.29167 z"
+       fill="#a78d4c"
+       stroke="#2b2b2b"
+       stroke-width="0.8"
+       id="path20"
+       style="stroke-width:0.1;stroke-dasharray:none" />
+    <rect
+       x="105.88091"
+       y="176.90553"
+       width="6.8791666"
+       height="18.520834"
+       fill="url(#g_lin)"
+       stroke="#2b2b2b"
+       stroke-width="0.211667"
+       id="rect16"
+       style="fill:url(#linearGradient3);stroke-width:0.1;stroke-dasharray:none" />
+    <path
+       d="m 114.34763,176.90554 8.46668,-5.29168 h 3.17501 l -8.46669,5.29168 z"
+       fill="#98e5da"
+       stroke="#2b2b2b"
+       stroke-width="0.8"
+       id="path21"
+       style="stroke-width:0.1;stroke-dasharray:none" />
+    <path
+       d="m 117.52263,176.90554 8.46669,-5.29168 v 18.52084 l -8.46669,5.29167 z"
+       fill="#5b8983"
+       stroke="#2b2b2b"
+       stroke-width="0.8"
+       id="path22"
+       style="stroke-width:0.1;stroke-dasharray:none" />
+    <rect
+       x="114.3476"
+       y="176.90553"
+       width="3.175"
+       height="18.520834"
+       fill="url(#g_act)"
+       stroke="#2b2b2b"
+       stroke-width="0.211667"
+       id="rect18"
+       style="fill:url(#g_act);stroke-width:0.1;stroke-dasharray:none" />
+    <path
+       d="m 119.11014,176.90554 4.23334,-2.64584 h 6.87917 l -4.23333,2.64584 z"
+       fill="#ffec7f"
+       stroke="#2b2b2b"
+       stroke-width="0.8"
+       id="path23"
+       style="stroke-width:0.1;stroke-dasharray:none" />
+    <path
+       d="m 125.98932,176.90554 4.23333,-2.64584 v 18.52084 l -4.23333,2.64583 z"
+       fill="#a78d4c"
+       stroke="#2b2b2b"
+       stroke-width="0.8"
+       id="path24"
+       style="stroke-width:0.1;stroke-dasharray:none" />
+    <rect
+       x="119.11011"
+       y="176.90553"
+       width="6.8791666"
+       height="18.520834"
+       fill="url(#g_lin)"
+       stroke="#2b2b2b"
+       stroke-width="0.211667"
+       id="rect20"
+       style="fill:url(#linearGradient2);stroke-width:0.1;stroke-dasharray:none" />
+    <text
+       x="115.93509"
+       y="200.18886"
+       text-anchor="middle"
+       font-size="2.64583px"
+       fill="#1a202c"
+       id="text20"
+       style="stroke-width:0.264583">feed-forward 768 → 3072 → 768</text>
+    <line
+       x1="131.54552"
+       y1="186.16595"
+       x2="136.57262"
+       y2="186.16595"
+       stroke="#4a5568"
+       stroke-width="0.3175"
+       marker-end="url(#ar)"
+       id="line20" />
+    <circle
+       cx="100.06009"
+       cy="186.16595"
+       r="0.58208334"
+       fill="#4a5568"
+       id="circle20"
+       style="stroke-width:0.264583" />
+    <path
+       d="m 100.06012,186.16595 c 0,-19.31459 39.15837,-19.31459 39.15837,-2.64583"
+       fill="none"
+       stroke="#4a5568"
+       stroke-width="0.291042"
+       marker-end="url(#ar)"
+       id="path25" />
+    <circle
+       cx="139.21844"
+       cy="186.16595"
+       r="2.1166666"
+       fill="#ffffff"
+       stroke="#2b2b2b"
+       stroke-width="1"
+       id="circle21" />
+    <text
+       x="139.21844"
+       y="187.2243"
+       text-anchor="middle"
+       font-size="3.175px"
+       fill="#2b2b2b"
+       id="text21"
+       style="stroke-width:0.264583">+</text>
+    <line
+       x1="142.39346"
+       y1="186.16595"
+       x2="149.27264"
+       y2="186.16595"
+       stroke="#4a5568"
+       stroke-width="0.3175"
+       marker-end="url(#ar)"
+       id="line21" />
+    <path
+       d="m 149.27266,176.90554 4.23333,-2.64584 h 3.175 l -4.23333,2.64584 z"
+       fill="#ff7a7a"
+       stroke="#2b2b2b"
+       stroke-width="0.8"
+       id="path26"
+       style="stroke-width:0.1;stroke-dasharray:none" />
+    <path
+       d="m 152.44766,176.90554 4.23333,-2.64584 v 18.52084 l -4.23333,2.64583 z"
+       fill="#a14949"
+       stroke="#2b2b2b"
+       stroke-width="0.8"
+       id="path27"
+       style="stroke-width:0.1;stroke-dasharray:none" />
+    <rect
+       x="149.27264"
+       y="176.90553"
+       width="3.175"
+       height="18.520834"
+       fill="url(#g_norm)"
+       stroke="#2b2b2b"
+       stroke-width="0.211667"
+       id="rect23"
+       style="fill:url(#linearGradient1);stroke-width:0.1;stroke-dasharray:none" />
+    <line
+       x1="158.00388"
+       y1="186.16595"
+       x2="167.2643"
+       y2="186.16595"
+       stroke="#4a5568"
+       stroke-width="0.3175"
+       marker-end="url(#ar)"
+       id="line23" />
+    <text
+       x="173.08516"
+       y="187.2243"
+       text-anchor="middle"
+       font-size="2.77813px"
+       fill="#1a202c"
+       id="text23"
+       style="stroke-width:0.264583">768</text>
+    <rect
+       x="42.910118"
+       y="210.24306"
+       width="3.7041667"
+       height="3.7041667"
+       fill="#9b8ec4"
+       stroke="#2b2b2b"
+       stroke-width="0.8"
+       id="rect24" />
+    <text
+       x="48.466366"
+       y="213.41805"
+       text-anchor="start"
+       font-size="2.64583px"
+       fill="#1a202c"
+       id="text24"
+       style="stroke-width:0.264583">atención multi-cabeza</text>
+    <rect
+       x="95.826775"
+       y="210.24306"
+       width="3.7041667"
+       height="3.7041667"
+       fill="#e06666"
+       stroke="#2b2b2b"
+       stroke-width="0.8"
+       id="rect25" />
+    <text
+       x="101.383"
+       y="213.41805"
+       text-anchor="start"
+       font-size="2.64583px"
+       fill="#1a202c"
+       id="text25"
+       style="stroke-width:0.264583">LayerNorm</text>
+    <rect
+       x="148.74345"
+       y="210.24306"
+       width="3.7041667"
+       height="3.7041667"
+       fill="#e8c56a"
+       stroke="#2b2b2b"
+       stroke-width="0.8"
+       id="rect26" />
+    <text
+       x="154.29973"
+       y="213.41805"
+       text-anchor="start"
+       font-size="2.64583px"
+       fill="#1a202c"
+       id="text26"
+       style="stroke-width:0.264583">capa lineal</text>
+    <rect
+       x="42.910118"
+       y="216.59306"
+       width="3.7041667"
+       height="3.7041667"
+       fill="#7fbfb6"
+       stroke="#2b2b2b"
+       stroke-width="0.8"
+       id="rect27" />
+    <text
+       x="48.466366"
+       y="219.76805"
+       text-anchor="start"
+       font-size="2.64583px"
+       fill="#1a202c"
+       id="text27"
+       style="stroke-width:0.264583">activación GELU</text>
+    <circle
+       cx="97.678833"
+       cy="218.44514"
+       r="1.8520833"
+       fill="#ffffff"
+       stroke="#2b2b2b"
+       stroke-width="1"
+       id="circle27" />
+    <text
+       x="97.678833"
+       y="219.50349"
+       text-anchor="middle"
+       font-size="3.175px"
+       fill="#2b2b2b"
+       id="text28"
+       style="stroke-width:0.264583">+</text>
+    <text
+       x="101.383"
+       y="219.76805"
+       text-anchor="start"
+       font-size="2.64583px"
+       fill="#1a202c"
+       id="text29"
+       style="stroke-width:0.264583">suma residual</text>
+    <text
+       x="116.99344"
+       y="227.44099"
+       text-anchor="middle"
+       font-size="2.51354px"
+       fill="#6b7482"
+       font-style="italic"
+       id="text30"
+       style="stroke-width:0.264583">una de las 12 capas del encoder · orden post-norm (wav2vec2-base)</text>
+    <rect
+       width="79.375"
+       height="146.05"
+       fill="#ffffff"
+       id="rect1"
+       x="66.939583"
+       y="3.7041667"
+       style="stroke-width:0.264583" />
+    <rect
+       x="90.752083"
+       y="12.7"
+       width="31.75"
+       height="6.8791666"
+       rx="1.8520833"
+       fill="#e2e6eb"
+       stroke="#9ea1a4"
+       stroke-width="1.1"
+       id="rect2" />
+    <text
+       x="106.62708"
+       y="17.197916"
+       text-anchor="middle"
+       font-size="2.77813px"
+       fill="#1a202c"
+       id="text2"
+       style="stroke-width:0.264583">entrada · 768</text>
+    <line
+       x1="106.62708"
+       y1="20.372917"
+       x2="106.62708"
+       y2="25.664583"
+       stroke="#5a6472"
+       stroke-width="0.343958"
+       marker-end="url(#ad)"
+       id="line2" />
+    <rect
+       x="80.697922"
+       y="26.458334"
+       width="51.858334"
+       height="12.170834"
+       rx="1.8520833"
+       fill="#e5e1ef"
+       stroke="#6c6389"
+       stroke-width="1.1"
+       id="rect3" />
+    <text
+       x="106.62708"
+       y="31.75"
+       text-anchor="middle"
+       font-size="2.91042px"
+       fill="#1a202c"
+       id="text3"
+       style="stroke-width:0.264583">Autoatención (MHSA)</text>
+    <text
+       x="106.62708"
+       y="35.71875"
+       text-anchor="middle"
+       font-size="2.51354px"
+       fill="#5a6472"
+       id="text4"
+       style="stroke-width:0.264583">12 cabezas · d = 64</text>
+    <line
+       x1="106.62708"
+       y1="39.422916"
+       x2="106.62708"
+       y2="44.714584"
+       stroke="#5a6472"
+       stroke-width="0.343958"
+       marker-end="url(#ad)"
+       id="line4" />
+    <rect
+       x="80.697922"
+       y="45.508331"
+       width="51.858334"
+       height="10.054167"
+       rx="1.8520833"
+       fill="#f6d7d7"
+       stroke="#9c4747"
+       stroke-width="1.1"
+       id="rect4" />
+    <text
+       x="106.62708"
+       y="51.59375"
+       text-anchor="middle"
+       font-size="2.91042px"
+       fill="#1a202c"
+       id="text5"
+       style="stroke-width:0.264583">Suma residual + LayerNorm</text>
+    <circle
+       cx="106.62708"
+       cy="23.018749"
+       r="0.63500005"
+       fill="#5a6472"
+       id="circle5"
+       style="stroke-width:0.264583" />
+    <path
+       d="M 106.62708,23.01875 H 75.40625 v 27.516667"
+       fill="none"
+       stroke="#5a6472"
+       stroke-width="0.291042"
+       id="path5-3" />
+    <line
+       x1="75.40625"
+       y1="50.535416"
+       x2="79.904167"
+       y2="50.535416"
+       stroke="#5a6472"
+       stroke-width="0.291042"
+       marker-end="url(#ad)"
+       id="line5" />
+    <line
+       x1="106.62708"
+       y1="56.356251"
+       x2="106.62708"
+       y2="61.647915"
+       stroke="#5a6472"
+       stroke-width="0.343958"
+       marker-end="url(#ad)"
+       id="line6" />
+    <rect
+       x="80.697922"
+       y="62.441666"
+       width="51.858334"
+       height="12.170834"
+       rx="1.8520833"
+       fill="#f9efd8"
+       stroke="#a2894a"
+       stroke-width="1.1"
+       id="rect6" />
+    <text
+       x="106.62708"
+       y="67.73333"
+       text-anchor="middle"
+       font-size="2.91042px"
+       fill="#1a202c"
+       id="text6"
+       style="stroke-width:0.264583">Feed-forward (FFN)</text>
+    <text
+       x="106.62708"
+       y="71.70208"
+       text-anchor="middle"
+       font-size="2.51354px"
+       fill="#5a6472"
+       id="text7"
+       style="stroke-width:0.264583">768 → 3072 → 768</text>
+    <line
+       x1="106.62708"
+       y1="75.406242"
+       x2="106.62708"
+       y2="80.697914"
+       stroke="#5a6472"
+       stroke-width="0.343958"
+       marker-end="url(#ad)"
+       id="line7" />
+    <rect
+       x="80.697922"
+       y="81.491661"
+       width="51.858334"
+       height="10.054167"
+       rx="1.8520833"
+       fill="#f6d7d7"
+       stroke="#9c4747"
+       stroke-width="1.1"
+       id="rect7" />
+    <text
+       x="106.62708"
+       y="87.57708"
+       text-anchor="middle"
+       font-size="2.91042px"
+       fill="#1a202c"
+       id="text8"
+       style="stroke-width:0.264583">Suma residual + LayerNorm</text>
+    <circle
+       cx="106.62708"
+       cy="59.002083"
+       r="0.63500005"
+       fill="#5a6472"
+       id="circle8"
+       style="stroke-width:0.264583" />
+    <path
+       d="M 106.62708,59.002084 H 75.40625 V 86.51875"
+       fill="none"
+       stroke="#5a6472"
+       stroke-width="0.291042"
+       id="path8" />
+    <line
+       x1="75.40625"
+       y1="86.518745"
+       x2="79.904167"
+       y2="86.518745"
+       stroke="#5a6472"
+       stroke-width="0.291042"
+       marker-end="url(#ad)"
+       id="line8" />
+    <line
+       x1="106.62708"
+       y1="92.339577"
+       x2="106.62708"
+       y2="97.631248"
+       stroke="#5a6472"
+       stroke-width="0.343958"
+       marker-end="url(#ad)"
+       id="line9" />
+    <rect
+       x="90.752083"
+       y="98.424995"
+       width="31.75"
+       height="6.8791666"
+       rx="1.8520833"
+       fill="#e2e6eb"
+       stroke="#9ea1a4"
+       stroke-width="1.1"
+       id="rect9" />
+    <text
+       x="106.62708"
+       y="102.92291"
+       text-anchor="middle"
+       font-size="2.77813px"
+       fill="#1a202c"
+       id="text9"
+       style="stroke-width:0.264583">salida · 768</text>
+    <rect
+       x="86.783333"
+       y="113.24166"
+       width="3.7041667"
+       height="3.7041667"
+       rx="0.79374999"
+       fill="#e5e1ef"
+       stroke="#6c6389"
+       stroke-width="1"
+       id="rect10" />
+    <text
+       x="92.339584"
+       y="116.41666"
+       text-anchor="start"
+       font-size="2.64583px"
+       fill="#1a202c"
+       id="text10-6"
+       style="stroke-width:0.264583">autoatención</text>
+    <rect
+       x="86.783333"
+       y="119.32709"
+       width="3.7041667"
+       height="3.7041667"
+       rx="0.79374999"
+       fill="#f9efd8"
+       stroke="#a2894a"
+       stroke-width="1"
+       id="rect11-1" />
+    <text
+       x="92.339584"
+       y="122.50208"
+       text-anchor="start"
+       font-size="2.64583px"
+       fill="#1a202c"
+       id="text11-0"
+       style="stroke-width:0.264583">feed-forward</text>
+    <rect
+       x="86.783333"
+       y="125.41251"
+       width="3.7041667"
+       height="3.7041667"
+       rx="0.79374999"
+       fill="#f6d7d7"
+       stroke="#9c4747"
+       stroke-width="1"
+       id="rect12" />
+    <text
+       x="92.339584"
+       y="128.58749"
+       text-anchor="start"
+       font-size="2.64583px"
+       fill="#1a202c"
+       id="text12-6"
+       style="stroke-width:0.264583">suma residual + LayerNorm</text>
+    <path
+       d="m 86.783333,133.61459 h 1.5875 v 1.5875 H 90.4875"
+       fill="none"
+       stroke="#5a6472"
+       stroke-width="0.3175"
+       marker-end="url(#ad)"
+       id="path12-3" />
+    <text
+       x="92.339584"
+       y="134.67293"
+       text-anchor="start"
+       font-size="2.64583px"
+       fill="#1a202c"
+       id="text13-2"
+       style="stroke-width:0.264583">conexión residual</text>
+    <text
+       x="106.62708"
+       y="142.34584"
+       text-anchor="middle"
+       font-size="2.51354px"
+       fill="#6b7482"
+       font-style="italic"
+       id="text14"
+       style="stroke-width:0.264583">una de las 12 capas del encoder (wav2vec2-base)</text>
+  </g>
+</svg>
