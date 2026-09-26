@@ -28,16 +28,22 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.765"
-     inkscape:cx="712.4183"
+     inkscape:cx="711.11111"
      inkscape:cy="26.797386"
-     inkscape:window-width="1440"
-     inkscape:window-height="863"
+     inkscape:window-width="1374"
+     inkscape:window-height="831"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
      id="defs1">
+    <rect
+       x="-37.908497"
+       y="-77.124183"
+       width="1346.4052"
+       height="424.8366"
+       id="rect1" />
     <rect
        x="136.93552"
        y="44.231384"
@@ -503,7 +509,10 @@
        height="1.2494469"
        x="204.64316"
        y="74.311913"
-       rx="0.7699548" />
+       rx="0.7699548"
+       inkscape:export-filename="Wav2vec.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:none;stroke:none;stroke-width:0;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
        id="rect32"
@@ -2516,7 +2525,7 @@
        id="text270"
        style="font-size:4.23333px;stroke-width:0.296995"><tspan
          style="font-weight:bold;font-size:4.23333px;fill:#000000"
-         id="tspan57">(c) cabeza de clasificación</tspan></text>
+         id="tspan57">(c) Etapa de clasificación</tspan></text>
     <path
        d="m 215.35492,14.886208 v -1.9625 h -78.23338 v 1.9625"
        fill="none"
@@ -2533,5 +2542,10 @@
        transform="matrix(0.26458333,0,0,0.26458333,-0.52916663,0)"
        id="text50"
        style="font-size:16px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect50);fill:#f4e3d7;stroke:#2b2b2b;stroke-width:0.377953;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1"
+       style="fill:#000000;text-orientation:auto;stroke-width:0.37795276;-inkscape-font-specification:OpenSymbol;font-family:OpenSymbol;font-size:12px;stroke-miterlimit:0;stroke-linecap:square;stroke:#2b2b2b;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1)" />
   </g>
 </svg>
