@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.1492003"
-     inkscape:cx="266.27211"
-     inkscape:cy="706.1432"
+     inkscape:zoom="0.81260733"
+     inkscape:cx="318.72713"
+     inkscape:cy="624.53289"
      inkscape:window-width="1440"
      inkscape:window-height="863"
      inkscape:window-x="0"
@@ -676,15 +676,6 @@
        fill="#1a202c"
        id="text29"
        style="stroke-width:0.264583">suma residual</text>
-    <text
-       x="116.99344"
-       y="227.44099"
-       text-anchor="middle"
-       font-size="2.51354px"
-       fill="#6b7482"
-       font-style="italic"
-       id="text30"
-       style="stroke-width:0.264583">una de las 12 capas del encoder · orden post-norm (wav2vec2-base)</text>
     <rect
        width="79.375"
        height="146.05"
