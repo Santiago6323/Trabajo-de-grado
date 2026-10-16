@@ -26,11 +26,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.85292275"
-     inkscape:cx="375.18052"
-     inkscape:cy="669.46274"
-     inkscape:window-width="1440"
-     inkscape:window-height="900"
+     inkscape:zoom="0.60310746"
+     inkscape:cx="333.27394"
+     inkscape:cy="1037.1286"
+     inkscape:window-width="1374"
+     inkscape:window-height="831"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -110,7 +110,7 @@
        id="rect3" />
     <text
        x="107.99896"
-       y="57.403412"
+       y="59.520081"
        text-anchor="middle"
        font-size="2.91042px"
        fill="#1a202c"
@@ -125,7 +125,7 @@
        font-size="2.51354px"
        fill="#5a6472"
        id="text4"
-       style="font-size:3.175px;stroke-width:0.264583">7 capas conv. 1D · ÷320</text>
+       style="font-size:3.175px;stroke-width:0.264583" />
     <rect
        x="74.926041"
        y="74.865913"
@@ -138,7 +138,7 @@
        id="rect4" />
     <text
        x="107.99896"
-       y="80.157578"
+       y="82.274246"
        text-anchor="middle"
        font-size="2.91042px"
        fill="#1a202c"
@@ -153,7 +153,7 @@
        font-size="2.51354px"
        fill="#5a6472"
        id="text6"
-       style="font-size:3.175px;stroke-width:0.264583">T × 512 · ≈ 49 Hz</text>
+       style="font-size:3.175px;stroke-width:0.264583" />
     <path
        d="m 107.99896,45.761746 v 4.7625"
        fill="none"
@@ -194,7 +194,7 @@
        id="rect9" />
     <text
        x="61.696884"
-       y="102.118"
+       y="104.23466"
        text-anchor="middle"
        font-size="2.91042px"
        fill="#1a202c"
@@ -209,7 +209,7 @@
        font-size="2.51354px"
        fill="#5a6472"
        id="text10"
-       style="font-size:3.175px;stroke-width:0.264583">512 → 768</text>
+       style="font-size:3.175px;stroke-width:0.264583" />
     <rect
        x="35.238548"
        y="117.19925"
@@ -222,7 +222,7 @@
        id="rect10" />
     <text
        x="61.696884"
-       y="122.7555"
+       y="124.87218"
        text-anchor="middle"
        font-size="2.91042px"
        fill="#1a202c"
@@ -237,7 +237,7 @@
        font-size="2.51354px"
        fill="#5a6472"
        id="text12"
-       style="font-size:3.175px;stroke-width:0.264583">≈ 49% de los pasos</text>
+       style="font-size:3.175px;stroke-width:0.264583" />
     <rect
        x="35.238548"
        y="138.89508"
@@ -250,7 +250,7 @@
        id="rect12" />
     <text
        x="61.696884"
-       y="144.18675"
+       y="147.36171"
        text-anchor="middle"
        font-size="2.91042px"
        fill="#1a202c"
@@ -265,7 +265,7 @@
        font-size="2.51354px"
        fill="#5a6472"
        id="text14"
-       style="font-size:3.175px;stroke-width:0.264583">12 capas · 768</text>
+       style="font-size:3.175px;stroke-width:0.264583" />
     <rect
        x="35.238548"
        y="160.06174"
@@ -278,7 +278,7 @@
        id="rect14" />
     <text
        x="61.696884"
-       y="164.82423"
+       y="166.94087"
        text-anchor="middle"
        font-size="2.91042px"
        fill="#1a202c"
@@ -293,7 +293,7 @@
        font-size="2.51354px"
        fill="#5a6472"
        id="text16"
-       style="font-size:3.175px;stroke-width:0.264583">T × 768</text>
+       style="font-size:3.175px;stroke-width:0.264583" />
     <path
        d="m 61.69688,108.20341 v 7.40834"
        fill="none"
@@ -327,7 +327,7 @@
        id="rect18" />
     <text
        x="152.97812"
-       y="103.44092"
+       y="105.02843"
        text-anchor="middle"
        font-size="2.91042px"
        fill="#1a202c"
@@ -342,7 +342,7 @@
        font-size="2.51354px"
        fill="#5a6472"
        id="text19"
-       style="font-size:3.175px;stroke-width:0.264583">G = 2 × V = 320 · Gumbel-Softmax</text>
+       style="font-size:3.175px;stroke-width:0.264583" />
     <rect
        x="125.19688"
        y="119.84509"
@@ -355,7 +355,7 @@
        id="rect19" />
     <text
        x="152.97812"
-       y="124.60758"
+       y="126.19508"
        text-anchor="middle"
        font-size="2.91042px"
        fill="#1a202c"
@@ -370,7 +370,7 @@
        font-size="2.51354px"
        fill="#5a6472"
        id="text21"
-       style="font-size:3.175px;stroke-width:0.264583">T × 256</text>
+       style="font-size:3.175px;stroke-width:0.264583" />
     <rect
        x="125.19688"
        y="139.95341"
@@ -383,7 +383,7 @@
        id="rect21" />
     <text
        x="152.97812"
-       y="144.9805"
+       y="146.56798"
        text-anchor="middle"
        font-size="2.91042px"
        fill="#501a20"
@@ -397,7 +397,7 @@
        font-size="2.51354px"
        fill="#5a6472"
        id="text23"
-       style="font-size:3.175px;stroke-width:0.264583">uso uniforme del codebook</text>
+       style="font-size:3.175px;stroke-width:0.264583" />
     <path
        d="m 152.97813,110.84925 v 7.40833"
        fill="none"
@@ -424,7 +424,7 @@
        id="rect24" />
     <text
        x="107.99896"
-       y="188.10757"
+       y="190.75337"
        text-anchor="middle"
        font-size="2.91042px"
        fill="#501a20"
@@ -438,7 +438,7 @@
        font-size="2.51354px"
        fill="#5a6472"
        id="text25"
-       style="font-size:3.175px;stroke-width:0.264583">ct frente a q y K distractores</text>
+       style="font-size:3.175px;stroke-width:0.264583" />
     <path
        d="m 61.69688,171.17425 v 3.175 q 0,2.11666 2.11667,2.11666 h 13.22916 q 1.85209,0 1.85209,1.85209 v 1.85208"
        fill="none"

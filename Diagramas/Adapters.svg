@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.81260735"
-     inkscape:cx="674.37244"
-     inkscape:cy="1099.547"
+     inkscape:zoom="1.1492003"
+     inkscape:cx="380.26442"
+     inkscape:cy="865.38436"
      inkscape:window-width="1374"
      inkscape:window-height="831"
      inkscape:window-x="0"
@@ -208,7 +208,7 @@
        y1="29.767385"
        x2="360.66373"
        y2="37.732357"
-       gradientTransform="matrix(0.11249956,0,0,0.62226319,61.278814,238.84948)"
+       gradientTransform="matrix(0.11249956,0,0,0.62226319,49.107973,238.84948)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -218,7 +218,7 @@
        y1="41.791759"
        x2="205.38506"
        y2="53.785297"
-       gradientTransform="matrix(0.15929508,0,0,0.43946325,61.278814,238.84948)"
+       gradientTransform="matrix(0.15929508,0,0,0.43946325,49.107973,238.84948)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -228,7 +228,7 @@
        y1="43.0728"
        x2="172.70522"
        y2="54.597946"
-       gradientTransform="matrix(0.16278457,0,0,0.43004284,61.278814,238.84948)"
+       gradientTransform="matrix(0.16278457,0,0,0.43004284,49.107973,238.84948)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -238,7 +238,7 @@
        y1="29.767385"
        x2="238.70016"
        y2="37.732357"
-       gradientTransform="matrix(0.11249956,0,0,0.62226319,61.278814,238.84948)"
+       gradientTransform="matrix(0.11249956,0,0,0.62226319,49.107973,238.84948)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -248,7 +248,7 @@
        y1="43.0728"
        x2="151.20306"
        y2="54.597946"
-       gradientTransform="matrix(0.16278457,0,0,0.43004284,61.278814,238.84948)"
+       gradientTransform="matrix(0.16278457,0,0,0.43004284,49.107973,238.84948)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -258,7 +258,7 @@
        y1="29.767385"
        x2="178.96289"
        y2="37.732357"
-       gradientTransform="matrix(0.11249956,0,0,0.62226319,61.278814,238.84948)"
+       gradientTransform="matrix(0.11249956,0,0,0.62226319,49.107973,238.84948)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -679,8 +679,8 @@
        id="rect25-1"
        style="fill:url(#linearGradient16);stroke-width:0.1;stroke-dasharray:none" />
     <text
-       x="183.47832"
-       y="267.88043"
+       x="184.62949"
+       y="267.65021"
        text-anchor="middle"
        font-size="2.64583px"
        fill="#1f6b55"
@@ -840,26 +840,10 @@
        fill="#6b7482"
        id="text32"
        style="stroke-width:0.264583">12 cabezas · d = 64</text>
-    <path
-       d="m 108.37465,308.9641 4.23334,-2.64584 h 5.82083 v 18.52084 l -4.23333,2.64583 h -5.82084 z"
-       fill="#f7f8fa"
-       stroke="#b9c0c9"
-       stroke-width="0.9"
-       stroke-dasharray="4, 3"
-       id="path32" />
-    <text
-       x="111.28503"
-       y="338.59732"
-       text-anchor="middle"
-       font-size="2.38125px"
-       fill="#9aa4b2"
-       font-style="italic"
-       id="text33"
-       style="stroke-width:0.264583">sin adapter</text>
     <line
-       x1="119.75172"
+       x1="107.58089"
        y1="318.22449"
-       x2="124.77881"
+       x2="112.60799"
        y2="318.22449"
        stroke="#4a5568"
        stroke-width="0.3175"
@@ -874,15 +858,15 @@
        id="circle33"
        style="stroke-width:0.264583" />
     <path
-       d="m 79.270481,318.22451 c 0,-16.13958 48.154179,-16.13958 48.154179,-2.64583"
+       d="m 79.255994,318.25218 c 0,-16.21046 35.513036,-16.21046 35.513036,-2.65745"
        fill="none"
        stroke="#4a5568"
-       stroke-width="0.291042"
+       stroke-width="0.250486"
        marker-end="url(#ar-3)"
        id="path33"
        style="marker-end:url(#ar-3)" />
     <circle
-       cx="127.42464"
+       cx="115.25381"
        cy="318.22449"
        r="2.1166666"
        fill="#ffffff"
@@ -890,7 +874,7 @@
        stroke-width="1"
        id="circle34" />
     <text
-       x="127.42464"
+       x="115.25381"
        y="319.28281"
        text-anchor="middle"
        font-size="3.175px"
@@ -898,9 +882,9 @@
        id="text34"
        style="stroke-width:0.264583">+</text>
     <line
-       x1="130.59964"
+       x1="118.42884"
        y1="318.22449"
-       x2="137.47879"
+       x2="125.30807"
        y2="318.22449"
        stroke="#4a5568"
        stroke-width="0.3175"
@@ -908,21 +892,21 @@
        id="line34"
        style="marker-end:url(#ar-3)" />
     <path
-       d="m 137.47884,308.9641 4.23333,-2.64584 h 3.175 l -4.23333,2.64584 z"
+       d="m 125.30793,308.9641 4.23333,-2.64584 h 3.175 l -4.23333,2.64584 z"
        fill="#ff7a7a"
        stroke="#2b2b2b"
        stroke-width="0.8"
        id="path34"
        style="stroke-width:0.1;stroke-dasharray:none" />
     <path
-       d="m 140.65384,308.9641 4.23333,-2.64584 v 18.52084 l -4.23333,2.64583 z"
+       d="m 128.48293,308.9641 4.23333,-2.64584 v 18.52084 l -4.23333,2.64583 z"
        fill="#a14949"
        stroke="#2b2b2b"
        stroke-width="0.8"
        id="path35"
        style="stroke-width:0.1;stroke-dasharray:none" />
     <rect
-       x="137.47879"
+       x="125.30807"
        y="308.96408"
        width="3.175"
        height="18.520834"
@@ -932,9 +916,9 @@
        id="rect35"
        style="fill:url(#linearGradient13);stroke-width:0.1;stroke-dasharray:none" />
     <line
-       x1="146.21007"
+       x1="134.0394"
        y1="318.22449"
-       x2="154.41216"
+       x2="142.24149"
        y2="318.22449"
        stroke="#4a5568"
        stroke-width="0.3175"
@@ -942,21 +926,21 @@
        id="line35"
        style="marker-end:url(#ar-3)" />
     <path
-       d="m 154.41217,308.9641 8.46667,-5.29167 h 6.87917 l -8.46667,5.29167 z"
+       d="m 142.24126,308.9641 8.46667,-5.29167 h 6.87917 l -8.46667,5.29167 z"
        fill="#ffec7f"
        stroke="#2b2b2b"
        stroke-width="0.8"
        id="path36"
        style="stroke-width:0.1;stroke-dasharray:none" />
     <path
-       d="m 161.29134,308.9641 8.46667,-5.29167 v 18.52083 l -8.46667,5.29167 z"
+       d="m 149.12043,308.9641 8.46667,-5.29167 v 18.52083 l -8.46667,5.29167 z"
        fill="#a78d4c"
        stroke="#2b2b2b"
        stroke-width="0.8"
        id="path37"
        style="stroke-width:0.1;stroke-dasharray:none" />
     <rect
-       x="154.41216"
+       x="142.24149"
        y="308.96408"
        width="6.8791666"
        height="18.520834"
@@ -966,21 +950,21 @@
        id="rect37"
        style="fill:url(#linearGradient12);stroke-width:0.1;stroke-dasharray:none" />
     <path
-       d="m 162.87884,308.9641 8.46667,-5.29167 h 3.175 l -8.46667,5.29167 z"
+       d="m 150.70793,308.9641 8.46667,-5.29167 h 3.175 l -8.46667,5.29167 z"
        fill="#98e5da"
        stroke="#2b2b2b"
        stroke-width="0.8"
        id="path38"
        style="stroke-width:0.1;stroke-dasharray:none" />
     <path
-       d="m 166.05384,308.9641 8.46667,-5.29167 v 18.52083 l -8.46667,5.29167 z"
+       d="m 153.88293,308.9641 8.46667,-5.29167 v 18.52083 l -8.46667,5.29167 z"
        fill="#5b8983"
        stroke="#2b2b2b"
        stroke-width="0.8"
        id="path39"
        style="stroke-width:0.1;stroke-dasharray:none" />
     <rect
-       x="162.87883"
+       x="150.70816"
        y="308.96408"
        width="3.175"
        height="18.520834"
@@ -990,21 +974,21 @@
        id="rect39"
        style="fill:url(#linearGradient11);stroke-width:0.1;stroke-dasharray:none" />
     <path
-       d="m 167.64134,308.9641 4.23333,-2.64584 h 6.87917 l -4.23333,2.64584 z"
+       d="m 155.47043,308.9641 4.23333,-2.64584 h 6.87917 l -4.23333,2.64584 z"
        fill="#ffec7f"
        stroke="#2b2b2b"
        stroke-width="0.8"
        id="path40"
        style="stroke-width:0.1;stroke-dasharray:none" />
     <path
-       d="m 174.52051,308.9641 4.23333,-2.64584 v 18.52084 l -4.23333,2.64583 z"
+       d="m 162.3496,308.9641 4.23333,-2.64584 v 18.52084 l -4.23333,2.64583 z"
        fill="#a78d4c"
        stroke="#2b2b2b"
        stroke-width="0.8"
        id="path41"
        style="stroke-width:0.1;stroke-dasharray:none" />
     <rect
-       x="167.64134"
+       x="155.47067"
        y="308.96408"
        width="6.8791666"
        height="18.520834"
@@ -1014,7 +998,7 @@
        id="rect41"
        style="fill:url(#linearGradient10);stroke-width:0.1;stroke-dasharray:none" />
     <text
-       x="164.46634"
+       x="152.29567"
        y="332.24734"
        text-anchor="middle"
        font-size="2.64583px"
@@ -1022,9 +1006,9 @@
        id="text41"
        style="stroke-width:0.264583">feed-forward 768 → 3072 → 768</text>
     <line
-       x1="180.07675"
+       x1="167.90608"
        y1="318.22449"
-       x2="184.57468"
+       x2="172.40401"
        y2="318.22449"
        stroke="#4a5568"
        stroke-width="0.3175"
@@ -1032,21 +1016,21 @@
        id="line41"
        style="marker-end:url(#ar-3)" />
     <path
-       d="m 185.63301,308.9641 4.23333,-2.64584 h 5.82083 l -4.23333,2.64584 z"
+       d="m 173.4621,308.9641 4.23333,-2.64584 h 5.82083 l -4.23333,2.64584 z"
        fill="#4aba97"
        stroke="#1f6b55"
        stroke-width="1.4"
        id="path42"
        style="stroke-width:0.1;stroke-dasharray:none" />
     <path
-       d="m 191.45384,308.9641 4.23333,-2.64584 v 18.52084 l -4.23333,2.64583 z"
+       d="m 179.28293,308.9641 4.23333,-2.64584 v 18.52084 l -4.23333,2.64583 z"
        fill="#2c6f5a"
        stroke="#1f6b55"
        stroke-width="1.4"
        id="path43"
        style="stroke-width:0.1;stroke-dasharray:none" />
     <rect
-       x="185.633"
+       x="173.46233"
        y="308.96408"
        width="5.8208332"
        height="18.520834"
@@ -1056,17 +1040,17 @@
        id="rect43"
        style="fill:url(#linearGradient9);stroke-width:0.1;stroke-dasharray:none" />
     <text
-       x="188.54343"
-       y="338.59732"
+       x="179.01863"
+       y="337.53897"
        text-anchor="middle"
        font-size="2.64583px"
        fill="#1f6b55"
        id="text43"
        style="stroke-width:0.264583">adapter</text>
     <line
-       x1="197.01009"
+       x1="184.83942"
        y1="318.22449"
-       x2="202.03717"
+       x2="189.8665"
        y2="318.22449"
        stroke="#4a5568"
        stroke-width="0.3175"
@@ -1074,14 +1058,14 @@
        id="line43"
        style="marker-end:url(#ar-3)" />
     <circle
-       cx="148.59132"
+       cx="136.42065"
        cy="318.22449"
        r="0.58208334"
        fill="#4a5568"
        id="circle43"
        style="stroke-width:0.264583" />
     <path
-       d="m 148.59134,318.22451 c 0,-19.31458 56.09167,-19.31458 56.09167,-2.64583"
+       d="m 136.42043,318.22451 c 0,-19.31458 56.09167,-19.31458 56.09167,-2.64583"
        fill="none"
        stroke="#4a5568"
        stroke-width="0.291042"
@@ -1089,7 +1073,7 @@
        id="path44"
        style="marker-end:url(#ar-3)" />
     <circle
-       cx="204.683"
+       cx="192.51233"
        cy="318.22449"
        r="2.1166666"
        fill="#ffffff"
@@ -1097,7 +1081,7 @@
        stroke-width="1"
        id="circle44" />
     <text
-       x="204.683"
+       x="192.51233"
        y="319.28281"
        text-anchor="middle"
        font-size="3.175px"
@@ -1105,9 +1089,9 @@
        id="text44"
        style="stroke-width:0.264583">+</text>
     <line
-       x1="207.858"
+       x1="195.68733"
        y1="318.22449"
-       x2="214.73717"
+       x2="202.5665"
        y2="318.22449"
        stroke="#4a5568"
        stroke-width="0.3175"
@@ -1115,21 +1099,21 @@
        id="line44"
        style="marker-end:url(#ar-3)" />
     <path
-       d="m 214.73717,308.9641 4.23334,-2.64584 h 3.175 l -4.23334,2.64584 z"
+       d="m 202.56626,308.9641 4.23334,-2.64584 h 3.175 l -4.23334,2.64584 z"
        fill="#ff7a7a"
        stroke="#2b2b2b"
        stroke-width="0.8"
        id="path45"
        style="stroke-width:0.1;stroke-dasharray:none" />
     <path
-       d="m 217.91217,308.9641 4.23334,-2.64584 v 18.52084 l -4.23334,2.64583 z"
+       d="m 205.74126,308.9641 4.23334,-2.64584 v 18.52084 l -4.23334,2.64583 z"
        fill="#a14949"
        stroke="#2b2b2b"
        stroke-width="0.8"
        id="path46"
        style="stroke-width:0.1;stroke-dasharray:none" />
     <rect
-       x="214.73717"
+       x="202.5665"
        y="308.96408"
        width="3.175"
        height="18.520834"
@@ -1139,9 +1123,9 @@
        id="rect46"
        style="fill:url(#linearGradient8);stroke-width:0.1;stroke-dasharray:none" />
     <line
-       x1="223.46843"
+       x1="211.29776"
        y1="318.22449"
-       x2="232.72884"
+       x2="220.55817"
        y2="318.22449"
        stroke="#4a5568"
        stroke-width="0.3175"
@@ -1149,7 +1133,7 @@
        id="line46"
        style="marker-end:url(#ar-3)" />
     <text
-       x="238.54967"
+       x="226.379"
        y="319.28281"
        text-anchor="middle"
        font-size="2.77813px"
@@ -1166,6 +1150,39 @@
        stroke="#1f6b55"
        stroke-width="1.1"
        id="rect47" />
+    <rect
+       x="170.50453"
+       y="304.76981"
+       width="16.507778"
+       height="23.658062"
+       rx="0.099046655"
+       fill="#f3faf7"
+       stroke="#1f6b55"
+       stroke-width="0.31981"
+       id="rect47-6"
+       style="fill:none;stroke-width:1.02;stroke-dasharray:none" />
+    <rect
+       x="177.12633"
+       y="234.27551"
+       width="16.507778"
+       height="23.658062"
+       rx="0.099046655"
+       fill="#f3faf7"
+       stroke="#1f6b55"
+       stroke-width="0.31981"
+       id="rect47-6-7"
+       style="fill:none;stroke-width:1.02;stroke-dasharray:none" />
+    <rect
+       x="99.728653"
+       y="234.40166"
+       width="16.507778"
+       height="23.658062"
+       rx="0.099046655"
+       fill="#f3faf7"
+       stroke="#1f6b55"
+       stroke-width="0.31981"
+       id="rect47-6-7-2"
+       style="fill:none;stroke-width:1.02;stroke-dasharray:none" />
     <line
        x1="108.53249"
        y1="441.07034"
