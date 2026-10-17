@@ -10,7 +10,7 @@
    xml:space="preserve"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="Metodologia_Poster.svg"
-   inkscape:export-filename="Metodologia.png"
+   inkscape:export-filename="Metodologia_Poster.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,11 +26,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.81260736"
-     inkscape:cx="962.94968"
-     inkscape:cy="266.42633"
-     inkscape:window-width="1374"
-     inkscape:window-height="831"
+     inkscape:zoom="0.57460017"
+     inkscape:cx="1049.4254"
+     inkscape:cy="286.28603"
+     inkscape:window-width="1440"
+     inkscape:window-height="863"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -196,8 +196,8 @@
          text-anchor="middle"
          font-weight="bold"
          id="text5"
-         style="font-size:12.381px"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
+         style="font-size:17.14285699px"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';font-size:17.14285699px"
            id="tspan1">ADReSS</tspan></text><text
          x="468.15768"
          y="251.39119"
@@ -205,8 +205,8 @@
          fill="#6b7478"
          text-anchor="middle"
          id="text6"
-         style="font-size:12.381px"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
+         style="font-size:13.3333px"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
            id="tspan6">AD / CTR</tspan></text><rect
          x="556.47028"
          y="81.460602"
@@ -231,8 +231,8 @@
          text-anchor="middle"
          font-weight="bold"
          id="text7"
-         style="font-size:12.381px"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
+         style="font-size:13.3333px"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
            id="tspan2">Preprocesamiento</tspan></text><line
          x1="518.15771"
          y1="187.39119"
@@ -300,8 +300,8 @@
          text-anchor="middle"
          font-weight="bold"
          id="text14"
-         style="font-size:12.381px"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
+         style="font-size:13.3333px"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
            id="tspan16">Wav2Vec 2.0 preentrenado</tspan></text><text
          x="1244.1248"
          y="74.406647"
@@ -310,8 +310,8 @@
          text-anchor="middle"
          font-weight="bold"
          id="text14-3"
-         style="font-size:12.381px;font-family:'DejaVu Sans', Arial, Helvetica, sans-serif"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
+         style="font-size:13.3333px;font-family:'DejaVu Sans', Arial, Helvetica, sans-serif"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
            id="tspan22">Etapa de clasificación</tspan></text><path
          d="m 1082.7296,176.67697 h 44"
          fill="none"
@@ -324,16 +324,18 @@
          font-size="9px"
          fill="#6b7478"
          text-anchor="middle"
-         id="text53"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
+         id="text53"
+         style="font-size:9.52381px"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52381px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
            id="tspan10">media</tspan></text><text
          x="1105.7297"
          y="166.67693"
          font-size="9px"
          fill="#6b7478"
          text-anchor="middle"
-         id="text54"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
+         id="text54"
+         style="font-size:9.52381px"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52381px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
            id="tspan11">temporal</tspan></text><rect
          x="1132.7297"
          y="115.67695"
@@ -399,8 +401,8 @@
          fill="#2b3438"
          text-anchor="middle"
          id="text60"
-         style="font-size:11.4286px"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
+         style="font-size:12.381px"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.381px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
            id="tspan14">Representación</tspan></text><text
          x="1142.7297"
          y="267.67697"
@@ -789,8 +791,8 @@
          fill="#6b7478"
          text-anchor="middle"
          id="text113"
-         style="font-size:11.4286px"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
+         style="font-size:12.381px"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.381px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
            id="tspan13">768→512→128→2</tspan></text><path
          d="m 1299.8726,176.67697 40,-27"
          fill="none"
@@ -858,7 +860,7 @@
          text-anchor="middle"
          fill="#555555"
          id="text30"
-         style="stroke-width:0.738946"
+         style="font-size:10.4762px;stroke-width:0.738946"
          transform="scale(1.0251431,0.97547357)">1</text><polygon
          points="335,300 361,300 351,310 325,310 "
          fill="#d9e5ef"
@@ -889,7 +891,7 @@
          text-anchor="middle"
          fill="#555555"
          id="text32"
-         style="stroke-width:0.738946"
+         style="font-size:10.4762px;stroke-width:0.738946"
          transform="scale(1.0251431,0.97547357)">2</text><polygon
          points="375,310 385,300 411,300 401,310 "
          fill="#d0deea"
@@ -920,7 +922,7 @@
          text-anchor="middle"
          fill="#555555"
          id="text34"
-         style="stroke-width:0.738946"
+         style="font-size:10.4762px;stroke-width:0.738946"
          transform="scale(1.0251431,0.97547357)">3</text><polygon
          points="451,310 425,310 435,300 461,300 "
          fill="#c6d7e6"
@@ -951,7 +953,7 @@
          text-anchor="middle"
          fill="#555555"
          id="text36"
-         style="stroke-width:0.738946"
+         style="font-size:10.4762px;stroke-width:0.738946"
          transform="scale(1.0251431,0.97547357)">4</text><polygon
          points="511,300 501,310 475,310 485,300 "
          fill="#bcd0e3"
@@ -982,7 +984,7 @@
          text-anchor="middle"
          fill="#555555"
          id="text38"
-         style="stroke-width:0.738946"
+         style="font-size:10.4762px;stroke-width:0.738946"
          transform="scale(1.0251431,0.97547357)">5</text><polygon
          points="535,300 561,300 551,310 525,310 "
          fill="#b2c9de"
@@ -1013,7 +1015,7 @@
          text-anchor="middle"
          fill="#555555"
          id="text40"
-         style="stroke-width:0.738946"
+         style="font-size:10.4762px;stroke-width:0.738946"
          transform="scale(1.0251431,0.97547357)">6</text><polygon
          points="575,310 585,300 611,300 601,310 "
          fill="#a8c3da"
@@ -1044,7 +1046,7 @@
          text-anchor="middle"
          fill="#555555"
          id="text42"
-         style="stroke-width:0.738946"
+         style="font-size:10.4762px;stroke-width:0.738946"
          transform="scale(1.0251431,0.97547357)">7</text><polygon
          points="651,310 625,310 635,300 661,300 "
          fill="#9ebcd6"
@@ -1075,7 +1077,7 @@
          text-anchor="middle"
          fill="#555555"
          id="text44-3"
-         style="stroke-width:0.738946"
+         style="font-size:10.4762px;stroke-width:0.738946"
          transform="scale(1.0251431,0.97547357)">8</text><polygon
          points="711,300 701,310 675,310 685,300 "
          fill="#95b5d2"
@@ -1106,7 +1108,7 @@
          text-anchor="middle"
          fill="#555555"
          id="text46-8"
-         style="stroke-width:0.738946"
+         style="font-size:10.4762px;stroke-width:0.738946"
          transform="scale(1.0251431,0.97547357)">9</text><polygon
          points="735,300 761,300 751,310 725,310 "
          fill="#8baece"
@@ -1137,7 +1139,7 @@
          text-anchor="middle"
          fill="#555555"
          id="text48-8"
-         style="stroke-width:0.738946"
+         style="font-size:10.4762px;stroke-width:0.738946"
          transform="scale(1.0251431,0.97547357)">10</text><polygon
          points="775,310 785,300 811,300 801,310 "
          fill="#81a7ca"
@@ -1168,7 +1170,7 @@
          text-anchor="middle"
          fill="#555555"
          id="text50-1"
-         style="stroke-width:0.738946"
+         style="font-size:10.4762px;stroke-width:0.738946"
          transform="scale(1.0251431,0.97547357)">11</text><polygon
          points="851,310 825,310 835,300 861,300 "
          fill="#77a1c6"
@@ -1199,7 +1201,7 @@
          text-anchor="middle"
          fill="#555555"
          id="text52-9"
-         style="stroke-width:0.738946"
+         style="font-size:10.4762px;stroke-width:0.738946"
          transform="scale(1.0251431,0.97547357)">12</text><line
          x1="1046.162"
          y1="220.40714"
@@ -1225,7 +1227,7 @@
          text-anchor="middle"
          fill="#2f6fa8"
          id="text53-0"
-         style="stroke-width:0.738946"
+         style="font-size:9.52381px;stroke-width:0.738946"
          transform="scale(1.0251431,0.97547357)">N=1</text><line
          x1="1019.6484"
          y1="217.52382"
@@ -1243,7 +1245,7 @@
          text-anchor="middle"
          fill="#2f6fa8"
          id="text54-6"
-         style="stroke-width:0.738946"
+         style="font-size:9.52381px;stroke-width:0.738946"
          transform="scale(1.0251431,0.97547357)">N=2</text><line
          x1="996.92261"
          y1="217.52382"
@@ -1261,7 +1263,7 @@
          text-anchor="middle"
          fill="#2f6fa8"
          id="text55"
-         style="stroke-width:0.738946"
+         style="font-size:9.52381px;stroke-width:0.738946"
          transform="scale(1.0251431,0.97547357)">N=3</text><line
          x1="974.19678"
          y1="217.52382"
@@ -1279,7 +1281,7 @@
          text-anchor="middle"
          fill="#2f6fa8"
          id="text56"
-         style="stroke-width:0.738946"
+         style="font-size:9.52381px;stroke-width:0.738946"
          transform="scale(1.0251431,0.97547357)">N=4</text><line
          x1="792.3905"
          y1="217.52382"
@@ -1299,12 +1301,12 @@
          id="text57"
          style="stroke-width:0.738946"
          transform="scale(1.0251431,0.97547357)">N=12</text><path
-         d="m 907.08377,118.77713 v -5.94481 h 33.94519 v 5.94481"
+         d="m 905.6552,118.77713 v -5.94481 h 33.94519 v 5.94481"
          fill="none"
          stroke="#a87824"
          stroke-width="0.93415"
          id="path83" /><text
-         x="902.27161"
+         x="899.4845"
          y="110.57927"
          font-family="'DejaVu Sans', Verdana, Arial, sans-serif"
          font-size="8.86734px"
@@ -1313,9 +1315,9 @@
          text-anchor="middle"
          fill="#a87824"
          id="text84"
-         style="font-size:7.61905px;stroke-width:0.738946"
+         style="font-size:9.52381px;stroke-width:0.738946"
          transform="scale(1.0251431,0.97547357)"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.52381px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
            id="tspan18">Semántico</tspan></text><path
          d="m 953.21333,118.78121 v -5.95151 h 33.26909 v 5.95151"
          fill="none"
@@ -1331,16 +1333,16 @@
          text-anchor="middle"
          fill="#3a9a6b"
          id="text85"
-         style="font-size:7.61905px;stroke-width:0.738946"
+         style="font-size:9.52381px;stroke-width:0.738946"
          transform="scale(1.0251431,0.97547357)"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.52381px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
            id="tspan19">Fonético</tspan></text><path
-         d="m 997.90296,118.7781 v -5.94586 h 56.75204 v 5.94586"
+         d="m 1000.7601,118.7781 v -5.94586 h 56.7521 v 5.94586"
          fill="none"
          stroke="#8e3b5e"
          stroke-width="0.933175"
          id="path85" /><text
-         x="1000.5518"
+         x="1004.7325"
          y="110.57927"
          font-family="'DejaVu Sans', Verdana, Arial, sans-serif"
          font-size="8.86734px"
@@ -1349,9 +1351,9 @@
          text-anchor="middle"
          fill="#8e3b5e"
          id="text86"
-         style="font-size:7.61905px;stroke-width:0.738946"
+         style="font-size:9.52381px;stroke-width:0.738946"
          transform="scale(1.0251431,0.97547357)"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.52381px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
            id="tspan20">Reconstructivo</tspan></text><polyline
          points="1.00,13.00 1.50,12.20 2.00,10.55 2.50,10.00 3.00,12.21 3.50,16.87 4.00,21.29 4.50,20.58 5.00,15.65 5.50,9.02 6.00,4.28 6.50,4.13 7.00,8.81 7.50,15.88 8.00,21.54 8.50,22.67 9.00,18.61 9.50,11.51 10.00,5.21 10.50,3.09 11.00,6.28 11.50,13.00 12.00,19.62 12.50,22.60 13.00,20.44 13.50,14.40 14.00,7.79 14.50,4.12 15.00,5.24 15.50,10.40 16.00,16.76 16.50,20.93 17.00,20.79 17.50,16.57 18.00,10.61 18.50,6.10 19.00,5.34 19.50,8.63 20.00,14.14 20.50,18.93 21.00,20.49 21.50,18.08 22.00,13.00 22.50,7.96 23.00,5.63 23.50,7.22 24.00,12.08 24.50,15.79 25.00,16.64 25.50,15.17 26.00,13.37 26.50,13.00"
          fill="none"
@@ -1394,8 +1396,8 @@
          fill="#2b3438"
          text-anchor="middle"
          id="text12"
-         style="font-size:12.381px;font-family:'DejaVu Sans', Arial, Helvetica, sans-serif"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+         style="font-size:17.1429px;font-family:'DejaVu Sans', Arial, Helvetica, sans-serif"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.1429px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
            id="tspan15">Ventanas</tspan></text><text
          x="630.89062"
          y="152.76045"
@@ -1403,8 +1405,8 @@
          fill="#6b7478"
          text-anchor="middle"
          id="text13"
-         style="font-size:9.52381px;font-family:'DejaVu Sans', Arial, Helvetica, sans-serif;stroke-width:0.188976;stroke-dasharray:none"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
+         style="font-size:12.381px;font-family:'DejaVu Sans', Arial, Helvetica, sans-serif;stroke-width:0.188976;stroke-dasharray:none"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.381px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
            id="tspan3">Segmentos ADDReSS</tspan></text><text
          x="631.08392"
          y="204.92551"
@@ -1412,8 +1414,8 @@
          fill="#6b7478"
          text-anchor="middle"
          id="text13-5"
-         style="font-size:9.52381px;font-family:'DejaVu Sans', Arial, Helvetica, sans-serif;stroke-width:0.188976;stroke-dasharray:none"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
+         style="font-size:12.381px;font-family:'DejaVu Sans', Arial, Helvetica, sans-serif;stroke-width:0.188976;stroke-dasharray:none"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.381px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
            id="tspan4">6 segundos</tspan></text><text
          x="631.05054"
          y="247.95015"
@@ -1421,8 +1423,8 @@
          fill="#6b7478"
          text-anchor="middle"
          id="text13-5-9"
-         style="font-size:9.52381px;font-family:'DejaVu Sans', Arial, Helvetica, sans-serif;stroke-width:0.188976;stroke-dasharray:none"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
+         style="font-size:12.381px;font-family:'DejaVu Sans', Arial, Helvetica, sans-serif;stroke-width:0.188976;stroke-dasharray:none"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.381px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
            id="tspan5">7.5 segundos</tspan></text><text
          x="917.81909"
          y="240.40367"
@@ -1431,8 +1433,8 @@
          text-anchor="middle"
          font-weight="bold"
          id="text44"
-         style="font-size:8.57143px;font-family:'DejaVu Sans', Arial, Helvetica, sans-serif"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
+         style="font-size:13.3333px;font-family:'DejaVu Sans', Arial, Helvetica, sans-serif"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
            id="tspan21">Estrategias de ajuste</tspan></text><text
          x="973.41504"
          y="95.083656"
@@ -1441,8 +1443,8 @@
          text-anchor="middle"
          font-weight="bold"
          id="text44-35"
-         style="font-size:8.57143px;font-family:'DejaVu Sans', Arial, Helvetica, sans-serif"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
+         style="font-size:12.381px;font-family:'DejaVu Sans', Arial, Helvetica, sans-serif"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.381px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
            id="tspan17">Bloques</tspan></text><text
          x="789.41431"
          y="261.8573"
@@ -1450,8 +1452,8 @@
          fill="#2b3438"
          text-anchor="start"
          id="text47"
-         style="font-size:10.4762px;font-family:'DejaVu Sans', Arial, Helvetica, sans-serif"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
+         style="font-size:13.3333px;font-family:'DejaVu Sans', Arial, Helvetica, sans-serif"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
            id="tspan7">Descongelamiento</tspan></text><text
          x="913.38928"
          y="261.73956"
@@ -1459,8 +1461,8 @@
          fill="#2b3438"
          text-anchor="start"
          id="text49"
-         style="font-size:10.4762px;font-family:'DejaVu Sans', Arial, Helvetica, sans-serif"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
+         style="font-size:13.3333px;font-family:'DejaVu Sans', Arial, Helvetica, sans-serif"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
            id="tspan8">Bottleneck</tspan></text><text
          x="998.49072"
          y="262.24515"
@@ -1468,8 +1470,8 @@
          fill="#2b3438"
          text-anchor="start"
          id="text49-3"
-         style="font-size:10.4762px;font-family:'DejaVu Sans', Arial, Helvetica, sans-serif"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
+         style="font-size:13.3333px;font-family:'DejaVu Sans', Arial, Helvetica, sans-serif"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000"
            id="tspan9">LoRA</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.71428571,0,0,0.71428571,302.85716,-73.571427)"
